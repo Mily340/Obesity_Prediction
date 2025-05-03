@@ -1,9 +1,7 @@
 # Python
 __pycache__/
-*.py[cod]
 *$py.class
 *.so
-.Python
 build/
 develop-eggs/
 dist/
@@ -20,9 +18,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+
 
 # Virtual Environment
 venv/
@@ -55,7 +51,6 @@ data/
 *.db
 
 # Distribution / packaging
-.Python
 env/
 build/
 develop-eggs/
